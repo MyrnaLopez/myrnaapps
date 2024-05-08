@@ -1,0 +1,3 @@
+[submodule "dinoapp/dinoapp/myrnaapps"]
+	path = dinoapp/dinoapp/myrnaapps
+	url = https://github.com/MyrnaLopez/myrnaapps.git
